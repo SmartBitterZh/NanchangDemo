@@ -1,0 +1,4 @@
+c:\users\dell\documents\visual studio 2013\Projects\MySocketServer2\MySocketServer2\bin\Debug\MySocketServer2.dll
+c:\users\dell\documents\visual studio 2013\Projects\MySocketServer2\MySocketServer2\bin\Debug\MySocketServer2.pdb
+c:\users\dell\documents\visual studio 2013\Projects\MySocketServer2\MySocketServer2\obj\Debug\MySocketServer2.dll
+c:\users\dell\documents\visual studio 2013\Projects\MySocketServer2\MySocketServer2\obj\Debug\MySocketServer2.pdb

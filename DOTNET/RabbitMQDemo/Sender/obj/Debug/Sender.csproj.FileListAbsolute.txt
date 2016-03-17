@@ -1,0 +1,16 @@
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\RabbitMQDemo\Sender\bin\Debug\Sender.exe.config
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\RabbitMQDemo\Sender\bin\Debug\Sender.exe
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\RabbitMQDemo\Sender\bin\Debug\Sender.pdb
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\RabbitMQDemo\Sender\bin\Debug\RabbitMQ.Client.dll
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\RabbitMQDemo\Sender\bin\Debug\RabbitMQ.ServiceModel.dll
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\RabbitMQDemo\Sender\bin\Debug\RabbitMQ.Client.xml
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\RabbitMQDemo\Sender\obj\Debug\Sender.exe
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\RabbitMQDemo\Sender\obj\Debug\Sender.pdb
+E:\Projects\DOTNET\RabbitMQDemo\Sender\bin\Debug\Sender.exe.config
+E:\Projects\DOTNET\RabbitMQDemo\Sender\obj\Debug\Sender.exe
+E:\Projects\DOTNET\RabbitMQDemo\Sender\obj\Debug\Sender.pdb
+E:\Projects\DOTNET\RabbitMQDemo\Sender\bin\Debug\Sender.exe
+E:\Projects\DOTNET\RabbitMQDemo\Sender\bin\Debug\Sender.pdb
+E:\Projects\DOTNET\RabbitMQDemo\Sender\bin\Debug\RabbitMQ.Client.dll
+E:\Projects\DOTNET\RabbitMQDemo\Sender\bin\Debug\RabbitMQ.ServiceModel.dll
+E:\Projects\DOTNET\RabbitMQDemo\Sender\bin\Debug\RabbitMQ.Client.xml

@@ -1,0 +1,9 @@
+E:\Projects\WPFWithOracleDemo\WPFWithOracle.Repository\bin\Debug\WPFWithOracle.Repository.dll
+E:\Projects\WPFWithOracleDemo\WPFWithOracle.Repository\bin\Debug\WPFWithOracle.Repository.pdb
+E:\Projects\WPFWithOracleDemo\WPFWithOracle.Repository\obj\Debug\WPFWithOracle.Repository.dll
+E:\Projects\WPFWithOracleDemo\WPFWithOracle.Repository\obj\Debug\WPFWithOracle.Repository.pdb
+E:\Projects\WPFWithOracleDemo\WPFWithOracle.Repository\obj\Debug\WPFWithOracle.Repository.csprojResolveAssemblyReference.cache
+E:\Projects\WPFWithOracleDemo\WPFWithOracle.Repository\bin\Debug\WPFWithOracle.Model.dll
+E:\Projects\WPFWithOracleDemo\WPFWithOracle.Repository\bin\Debug\WPFWithOracle.Model.pdb
+E:\Projects\WPFWithOracleDemo\WPFWithOracle.Repository\bin\Debug\WPFWithOracle.Helper.dll
+E:\Projects\WPFWithOracleDemo\WPFWithOracle.Repository\bin\Debug\WPFWithOracle.Helper.pdb

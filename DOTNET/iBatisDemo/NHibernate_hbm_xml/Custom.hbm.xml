@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+    <class name="Model.Custom, Model" table="Custom">
+        <id name="ID" column="ID" type="Int32">
+            <generator class="native" />
+        </id>
+        <property name="CustomName" column="CustomName" type="String" length="50" />
+        <property name="Address" column="Address" type="String" length="50" />
+        <property name="IsMember" column="IsMember" type="Boolean" />
+    </class>
+</hibernate-mapping>

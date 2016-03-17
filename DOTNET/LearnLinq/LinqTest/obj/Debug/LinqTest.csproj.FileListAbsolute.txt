@@ -1,0 +1,5 @@
+E:\Projects\LearnLinq\LinqTest\bin\Debug\LinqTest.exe
+E:\Projects\LearnLinq\LinqTest\bin\Debug\LinqTest.pdb
+E:\Projects\LearnLinq\LinqTest\obj\Debug\LinqTest.csprojResolveAssemblyReference.cache
+E:\Projects\LearnLinq\LinqTest\obj\Debug\LinqTest.exe
+E:\Projects\LearnLinq\LinqTest\obj\Debug\LinqTest.pdb

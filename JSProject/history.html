@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <script src="jquery-2.2.1.min.js"></script>
+</head>
+<body>
+<p>HTML5 history API </p>
+<a href="javascript:void(0)" id="pushstate">history.pushState(data, title [, url])</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="javascript:void(0)" id="replacestate">history.replaceState(data, title [, url]) </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="javascript:void(0)" id="onpopstate">window.onpopstate</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="javascript:void(0)" id="back">back</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="javascript:void(0)" id="test">test</a>
+<div id="loaddiv"></div>
+<div class="content"></div>
+<script type="text/javascript">
+$(function(){   
+    var loaddiv = $('#loaddiv');
+    $('#pushstate').click(function(){
+        loaddiv.load('1.php?stype=push');
+        history.pushState({title:'push',url:'1.php?stype=push'});
+        e.preventDefault();
+    });
+    $('#replacestate').click(function(){
+        loaddiv.load('1.php?stype=replace');
+        history.pushState({title:'replace',url:'1.php?stype=replace'});
+        e.preventDefault();
+    });
+    $('#onpopstate').click(function(){
+        loaddiv.load('1.php?stype=onpop');
+        history.pushState({title:'onpop',url:'1.php?stype=onpop'});
+        e.preventDefault();
+    });    
+    $('#back').click(function(){
+        history.back();
+    });
+    function anchorClick(link) {
+        var linkSplit = link.split('/').pop();
+        $.get(linkSplit, function(data) {
+            $('#content').html(data);
+        });
+    };
+    $('#test').click(function(){
+        history.pushState({title:'testEchar',url:'testEchar.html'});
+        // anchorClick(url);
+        e.preventDefault();
+    });   
+    window.onpopstate = function(e){
+        if(e.state){
+            loaddiv.load(e.state.url);
+        }
+    }    
+});
+</script>
+</body>
+</html>

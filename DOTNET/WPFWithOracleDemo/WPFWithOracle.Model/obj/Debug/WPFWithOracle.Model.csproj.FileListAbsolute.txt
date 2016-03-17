@@ -1,0 +1,4 @@
+E:\Projects\WPFWithOracleDemo\WPFWithOracle.Model\bin\Debug\WPFWithOracle.Model.dll
+E:\Projects\WPFWithOracleDemo\WPFWithOracle.Model\bin\Debug\WPFWithOracle.Model.pdb
+E:\Projects\WPFWithOracleDemo\WPFWithOracle.Model\obj\Debug\WPFWithOracle.Model.dll
+E:\Projects\WPFWithOracleDemo\WPFWithOracle.Model\obj\Debug\WPFWithOracle.Model.pdb

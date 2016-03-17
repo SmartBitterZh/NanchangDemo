@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<objects xmlns="http://www.springframework.net"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.springframework.net
+         http://www.springframework.net/xsd/spring-objects.xsd">
+    <object id="CustomBLL" type="BLL.CustomBLL, BLL" />
+    <object id="UserBLL" type="BLL.UserBLL, BLL" />
+    <object id="ProductBLL" type="BLL.ProductBLL, BLL" />
+    <object id="ShopCarBLL" type="BLL.ShopCarBLL, BLL" />
+    <object id="OrderBLL" type="BLL.OrderBLL, BLL" />
+</objects>

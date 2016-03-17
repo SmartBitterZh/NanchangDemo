@@ -1,0 +1,13 @@
+E:\Projects\iBatisDemo\BLL\bin\Debug\BLL.dll
+E:\Projects\iBatisDemo\BLL\bin\Debug\BLL.pdb
+E:\Projects\iBatisDemo\BLL\bin\Debug\DAOFactory.dll
+E:\Projects\iBatisDemo\BLL\bin\Debug\IBLL.dll
+E:\Projects\iBatisDemo\BLL\bin\Debug\IDAO.dll
+E:\Projects\iBatisDemo\BLL\bin\Debug\Model.dll
+E:\Projects\iBatisDemo\BLL\bin\Debug\DAOFactory.pdb
+E:\Projects\iBatisDemo\BLL\bin\Debug\IBLL.pdb
+E:\Projects\iBatisDemo\BLL\bin\Debug\IDAO.pdb
+E:\Projects\iBatisDemo\BLL\bin\Debug\Model.pdb
+E:\Projects\iBatisDemo\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Projects\iBatisDemo\BLL\obj\Debug\BLL.dll
+E:\Projects\iBatisDemo\BLL\obj\Debug\BLL.pdb

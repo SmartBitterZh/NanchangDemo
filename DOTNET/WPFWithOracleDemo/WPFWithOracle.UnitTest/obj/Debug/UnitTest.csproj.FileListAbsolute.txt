@@ -1,0 +1,11 @@
+E:\Projects\WPFWithOracleDemo\UnitTest\bin\Debug\UnitTest.dll
+E:\Projects\WPFWithOracleDemo\UnitTest\bin\Debug\UnitTest.pdb
+E:\Projects\WPFWithOracleDemo\UnitTest\bin\Debug\nunit.framework.dll
+E:\Projects\WPFWithOracleDemo\UnitTest\bin\Debug\WPFWithOracle.Model.dll
+E:\Projects\WPFWithOracleDemo\UnitTest\bin\Debug\WPFWithOracle.Model.pdb
+E:\Projects\WPFWithOracleDemo\UnitTest\bin\Debug\nunit.framework.xml
+E:\Projects\WPFWithOracleDemo\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+E:\Projects\WPFWithOracleDemo\UnitTest\obj\Debug\UnitTest.dll
+E:\Projects\WPFWithOracleDemo\UnitTest\obj\Debug\UnitTest.pdb
+E:\Projects\WPFWithOracleDemo\UnitTest\bin\Debug\WPFWithOracle.Helper.dll
+E:\Projects\WPFWithOracleDemo\UnitTest\bin\Debug\WPFWithOracle.Helper.pdb

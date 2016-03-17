@@ -1,0 +1,10 @@
+E:\Projects\iBatisDemo\SpringIoc\bin\Debug\SpringIoc.dll
+E:\Projects\iBatisDemo\SpringIoc\bin\Debug\SpringIoc.pdb
+E:\Projects\iBatisDemo\SpringIoc\bin\Debug\Spring.Aop.dll
+E:\Projects\iBatisDemo\SpringIoc\bin\Debug\Spring.Core.dll
+E:\Projects\iBatisDemo\SpringIoc\bin\Debug\Common.Logging.dll
+E:\Projects\iBatisDemo\SpringIoc\bin\Debug\Spring.Aop.xml
+E:\Projects\iBatisDemo\SpringIoc\bin\Debug\Spring.Core.xml
+E:\Projects\iBatisDemo\SpringIoc\obj\Debug\SpringIoc.csprojResolveAssemblyReference.cache
+E:\Projects\iBatisDemo\SpringIoc\obj\Debug\SpringIoc.dll
+E:\Projects\iBatisDemo\SpringIoc\obj\Debug\SpringIoc.pdb

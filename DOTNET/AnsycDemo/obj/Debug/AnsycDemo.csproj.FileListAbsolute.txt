@@ -1,0 +1,5 @@
+E:\Projects\AnsycDemo\bin\Debug\AnsycDemo.exe
+E:\Projects\AnsycDemo\bin\Debug\AnsycDemo.pdb
+E:\Projects\AnsycDemo\obj\Debug\AnsycDemo.exe
+E:\Projects\AnsycDemo\obj\Debug\AnsycDemo.pdb
+E:\Projects\AnsycDemo\obj\Debug\AnsycDemo.csprojResolveAssemblyReference.cache

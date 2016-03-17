@@ -1,0 +1,1 @@
+E:\Projects\SuperSocket(1.6.5).Source\SocketService\bin\Debug\SuperSocket.SocketService.exe.config

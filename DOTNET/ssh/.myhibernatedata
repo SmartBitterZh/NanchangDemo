@@ -1,0 +1,22 @@
+#
+#Mon May 04 15:38:55 CST 2009
+genBasicCompId=false
+sessionFactoryName=com.tarena.util.HibernateSessionFactory
+profile=
+daoSFId=
+version=3.1
+jndiPath=
+detectM2M=false
+reStrategyClass=
+springDaoFile=
+useJavaTypes=true
+keyGenerator=native
+libInstallFolder=WebRoot/WEB-INF/lib
+addLibs2Project=false
+genVersionTag=false
+sessionFactoryId=sessionFactory
+basePersistenceClass=
+reSettingsFile=
+configFile=/ssh/WebRoot/WEB-INF/ApplicationContext.xml
+createConfigFile=true
+addLibs2Classpath=false

@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F0175B51-57C5-4EB9-AF2E-286F6F5B3154}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WPFWithOracle.UnitTest</RootNamespace>
+    <AssemblyName>WPFWithOracle.UnitTest</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="nunit.framework, Version=3.0.5813.39032, Culture=neutral, PublicKeyToken=2638cd05610744eb, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CustomerTester.cs" />
+    <Compile Include="OracleHelperTester.cs" />
+    <Compile Include="ProductRepositoryTester.cs" />
+    <Compile Include="ProductServiceTester.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\WPFWithOracle.Helper\WPFWithOracle.Helper.csproj">
+      <Project>{80f5adb9-579d-497d-ae6e-6ccbe1abd475}</Project>
+      <Name>WPFWithOracle.Helper</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WPFWithOracle.Model\WPFWithOracle.Model.csproj">
+      <Project>{cfb1c00e-ae37-44de-8198-6b9ec601ea2a}</Project>
+      <Name>WPFWithOracle.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WPFWithOracle.MySocketServer\WPFWithOracle.MySocketServer.csproj">
+      <Project>{b01a7977-68e1-405c-9add-6158ca66b667}</Project>
+      <Name>WPFWithOracle.MySocketServer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WPFWithOracle.Repository\WPFWithOracle.Repository.csproj">
+      <Project>{f6992ee3-0650-4d4f-b8d9-5a5a76658643}</Project>
+      <Name>WPFWithOracle.Repository</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WPFWithOracle.Service\WPFWithOracle.Service.csproj">
+      <Project>{246cbdee-347b-4c6f-b7a2-fbbdea69da6a}</Project>
+      <Name>WPFWithOracle.Service</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{82A7F48D-3B50-4B1E-B82E-3ADA8210C358}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

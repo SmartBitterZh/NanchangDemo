@@ -1,0 +1,7 @@
+E:\Projects\iBatisDemo\IDAO\bin\Debug\IDAO.dll
+E:\Projects\iBatisDemo\IDAO\bin\Debug\IDAO.pdb
+E:\Projects\iBatisDemo\IDAO\bin\Debug\Model.dll
+E:\Projects\iBatisDemo\IDAO\bin\Debug\Model.pdb
+E:\Projects\iBatisDemo\IDAO\obj\Debug\IDAO.csprojResolveAssemblyReference.cache
+E:\Projects\iBatisDemo\IDAO\obj\Debug\IDAO.dll
+E:\Projects\iBatisDemo\IDAO\obj\Debug\IDAO.pdb

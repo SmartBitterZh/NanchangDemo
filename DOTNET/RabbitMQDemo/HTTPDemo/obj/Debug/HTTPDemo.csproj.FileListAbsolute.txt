@@ -1,0 +1,4 @@
+E:\Projects\DOTNET\RabbitMQDemo\HTTPDemo\bin\Debug\HTTPDemo.exe
+E:\Projects\DOTNET\RabbitMQDemo\HTTPDemo\bin\Debug\HTTPDemo.pdb
+E:\Projects\DOTNET\RabbitMQDemo\HTTPDemo\obj\Debug\HTTPDemo.exe
+E:\Projects\DOTNET\RabbitMQDemo\HTTPDemo\obj\Debug\HTTPDemo.pdb

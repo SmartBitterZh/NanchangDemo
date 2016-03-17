@@ -1,0 +1,12 @@
+c:\users\dell\documents\visual studio 2013\Projects\MySocketServer\MySocketServer\bin\Debug\MySocketServer.pdb
+c:\users\dell\documents\visual studio 2013\Projects\MySocketServer\MySocketServer\obj\Debug\MySocketServer.pdb
+c:\users\dell\documents\visual studio 2013\Projects\MySocketServer\MySocketServer\bin\Debug\MySocketServer.exe
+c:\users\dell\documents\visual studio 2013\Projects\MySocketServer\MySocketServer\obj\Debug\MySocketServer.exe
+c:\users\dell\documents\visual studio 2013\Projects\MySocketServer\MySocketServer\obj\Debug\MySocketServer.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\WpfDemo\MySocketServer\bin\Debug\MySocketServer.dll
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\WpfDemo\MySocketServer\bin\Debug\MySocketServer.pdb
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\WpfDemo\MySocketServer\obj\Debug\MySocketServer.dll
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\WpfDemo\MySocketServer\obj\Debug\MySocketServer.pdb
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\WpfDemo\MySocketServer\obj\Debug\MySocketServer.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\WpfDemo\MySocketServer\bin\Debug\DBControl.dll
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\WpfDemo\MySocketServer\bin\Debug\DBControl.pdb

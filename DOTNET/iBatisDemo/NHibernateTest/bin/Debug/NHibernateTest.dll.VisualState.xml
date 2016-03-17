@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="true">
+  <TopNode>[0-1006]D:\Test\iBatisDemo\NHibernateTest\bin\Debug\NHibernateTest.dll</TopNode>
+  <SelectedNode>[0-1006]D:\Test\iBatisDemo\NHibernateTest\bin\Debug\NHibernateTest.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1006]D:\Test\iBatisDemo\NHibernateTest\bin\Debug\NHibernateTest.dll" Expanded="true" />
+    <Node UniqueName="[0-1007]NHibernateTest" Expanded="true" />
+    <Node UniqueName="[0-1000]NHibernateTest.CustomTest" Expanded="true" />
+    <Node UniqueName="[0-1001]NHibernateTest.CustomTest.SelectAllTest" Checked="true" />
+  </Nodes>
+</VisualState>

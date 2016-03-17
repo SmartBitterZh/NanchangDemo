@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts-config PUBLIC "-//Apache Software Foundation//DTD Struts Configuration 1.2//EN" "http://struts.apache.org/dtds/struts-config_1_2.dtd">
+
+<struts-config>
+  <data-sources />
+  
+  <form-beans>
+  	<form-bean name="employeeForm" type="com.tarena.formbean.employee.EmployeeForm"></form-bean>
+  </form-beans>
+  
+  <global-exceptions />
+  
+  <global-forwards>
+  	<forward name="message" path="/common/message.jsp"/>
+  </global-forwards>
+  
+  <action-mappings>
+  
+  	<action path="/emp/list"
+			name="employeeForm"
+			scope="request">
+    	<forward name="list" path="/emp/list.jsp"/>
+    </action>
+    
+    <action path="/emp/manage"
+    		name="employeeForm"
+    		parameter="method"
+    		scope="request">
+    	<forward name="add" path="/emp/add.jsp"/>
+    	<forward name="edit" path="/emp/edit.jsp"/>
+    </action>
+    
+    <action path="/emp/query" forward="/emp/query.jsp" />
+  </action-mappings>
+  
+  <controller>
+	  <set-property property="processorClass" value="org.springframework.web.struts.DelegatingRequestProcessor"/>
+  </controller>
+  
+  <message-resources parameter="com.tarena.action.ApplicationResources" />
+  
+</struts-config>
+

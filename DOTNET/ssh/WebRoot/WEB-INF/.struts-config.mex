@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FlowViewLayout Version="1.2">
+  <StrutsActivity path="/emp/list.do" location="30,45" dimension="181,91" />
+  <StrutsActivity path="/emp/manage.do" location="285,45" dimension="196,91" />
+  <StrutsActivity path="/emp/query.do" location="30,405" dimension="280,84" />
+  <StrutsActivity path="message;6" location="525,45" dimension="160,72" />
+  <StrutsActivity path="/emp/query.jsp" location="495,420" dimension="124,48" />
+  <StrutsActivity path="/common/message.jsp" location="540,285" dimension="154,48" />
+  <StrutsActivity path="/emp/list.jsp" location="60,285" dimension="118,48" />
+  <StrutsActivity path="/emp/edit.jsp" location="255,285" dimension="118,48" />
+  <StrutsActivity path="/emp/add.jsp" location="390,285" dimension="112,48" />
+  <StrutsTransition id="message;6,null,/common/message.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="605,117" />
+      <AbsolutePoint location="605,285" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+  <StrutsTransition id="/emp/query.do,null,/emp/query.jsp,1" routingType="0">
+    <AutomaticBendpoints>
+      <AbsolutePoint location="310,447" />
+      <AbsolutePoint location="495,447" />
+    </AutomaticBendpoints>
+  </StrutsTransition>
+</FlowViewLayout>
+

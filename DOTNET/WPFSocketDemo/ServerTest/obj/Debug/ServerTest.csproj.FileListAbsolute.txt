@@ -1,0 +1,7 @@
+c:\users\dell\documents\visual studio 2013\Projects\WPFSocketDemo\ServerTest\bin\Debug\ServerTest.exe
+c:\users\dell\documents\visual studio 2013\Projects\WPFSocketDemo\ServerTest\bin\Debug\ServerTest.pdb
+c:\users\dell\documents\visual studio 2013\Projects\WPFSocketDemo\ServerTest\bin\Debug\SocketService.dll
+c:\users\dell\documents\visual studio 2013\Projects\WPFSocketDemo\ServerTest\bin\Debug\SocketService.pdb
+c:\users\dell\documents\visual studio 2013\Projects\WPFSocketDemo\ServerTest\obj\Debug\ServerTest.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\WPFSocketDemo\ServerTest\obj\Debug\ServerTest.exe
+c:\users\dell\documents\visual studio 2013\Projects\WPFSocketDemo\ServerTest\obj\Debug\ServerTest.pdb

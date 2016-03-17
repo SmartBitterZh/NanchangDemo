@@ -1,0 +1,16 @@
+E:\Projects\iBatisDemo\NHibernateDao\bin\Debug\NHibernateDao.dll
+E:\Projects\iBatisDemo\NHibernateDao\bin\Debug\NHibernateDao.pdb
+E:\Projects\iBatisDemo\NHibernateDao\bin\Debug\IDAO.dll
+E:\Projects\iBatisDemo\NHibernateDao\bin\Debug\Model.dll
+E:\Projects\iBatisDemo\NHibernateDao\bin\Debug\NHibernate.dll
+E:\Projects\iBatisDemo\NHibernateDao\bin\Debug\Iesi.Collections.dll
+E:\Projects\iBatisDemo\NHibernateDao\bin\Debug\Antlr3.Runtime.dll
+E:\Projects\iBatisDemo\NHibernateDao\bin\Debug\log4net.dll
+E:\Projects\iBatisDemo\NHibernateDao\bin\Debug\IDAO.pdb
+E:\Projects\iBatisDemo\NHibernateDao\bin\Debug\Model.pdb
+E:\Projects\iBatisDemo\NHibernateDao\bin\Debug\NHibernate.xml
+E:\Projects\iBatisDemo\NHibernateDao\bin\Debug\Iesi.Collections.xml
+E:\Projects\iBatisDemo\NHibernateDao\bin\Debug\log4net.xml
+E:\Projects\iBatisDemo\NHibernateDao\obj\Debug\NHibernateDao.csprojResolveAssemblyReference.cache
+E:\Projects\iBatisDemo\NHibernateDao\obj\Debug\NHibernateDao.dll
+E:\Projects\iBatisDemo\NHibernateDao\obj\Debug\NHibernateDao.pdb

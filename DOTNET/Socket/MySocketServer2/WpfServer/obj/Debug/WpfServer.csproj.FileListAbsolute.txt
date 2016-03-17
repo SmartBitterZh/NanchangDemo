@@ -1,0 +1,14 @@
+C:\Users\DELL\documents\visual studio 2013\Projects\MySocketServer2\WpfServer\obj\Debug\WpfServer.csprojResolveAssemblyReference.cache
+C:\Users\DELL\documents\visual studio 2013\Projects\MySocketServer2\WpfServer\obj\Debug\MainWindow.baml
+C:\Users\DELL\documents\visual studio 2013\Projects\MySocketServer2\WpfServer\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\documents\visual studio 2013\Projects\MySocketServer2\WpfServer\obj\Debug\App.g.cs
+C:\Users\DELL\documents\visual studio 2013\Projects\MySocketServer2\WpfServer\obj\Debug\WpfServer_MarkupCompile.cache
+C:\Users\DELL\documents\visual studio 2013\Projects\MySocketServer2\WpfServer\obj\Debug\WpfServer.g.resources
+C:\Users\DELL\documents\visual studio 2013\Projects\MySocketServer2\WpfServer\obj\Debug\WpfServer.Properties.Resources.resources
+C:\Users\DELL\documents\visual studio 2013\Projects\MySocketServer2\WpfServer\obj\Debug\WpfServer.csproj.GenerateResource.Cache
+C:\Users\DELL\documents\visual studio 2013\Projects\MySocketServer2\WpfServer\bin\Debug\WpfServer.exe
+C:\Users\DELL\documents\visual studio 2013\Projects\MySocketServer2\WpfServer\bin\Debug\WpfServer.pdb
+C:\Users\DELL\documents\visual studio 2013\Projects\MySocketServer2\WpfServer\bin\Debug\MySocketServer2.dll
+C:\Users\DELL\documents\visual studio 2013\Projects\MySocketServer2\WpfServer\bin\Debug\MySocketServer2.pdb
+C:\Users\DELL\documents\visual studio 2013\Projects\MySocketServer2\WpfServer\obj\Debug\WpfServer.exe
+C:\Users\DELL\documents\visual studio 2013\Projects\MySocketServer2\WpfServer\obj\Debug\WpfServer.pdb

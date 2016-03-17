@@ -1,0 +1,4 @@
+E:\Projects\iBatisDemo\Model\bin\Debug\Model.dll
+E:\Projects\iBatisDemo\Model\bin\Debug\Model.pdb
+E:\Projects\iBatisDemo\Model\obj\Debug\Model.dll
+E:\Projects\iBatisDemo\Model\obj\Debug\Model.pdb

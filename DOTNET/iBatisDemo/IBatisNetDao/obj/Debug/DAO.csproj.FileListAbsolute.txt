@@ -1,0 +1,16 @@
+D:\Test\iBatisDemo\DAO\bin\Debug\DAO.dll
+D:\Test\iBatisDemo\DAO\bin\Debug\DAO.pdb
+D:\Test\iBatisDemo\DAO\bin\Debug\IBatisNet.Common.dll
+D:\Test\iBatisDemo\DAO\bin\Debug\IBatisNet.DataAccess.dll
+D:\Test\iBatisDemo\DAO\bin\Debug\IBatisNet.DataMapper.dll
+D:\Test\iBatisDemo\DAO\bin\Debug\IDAO.dll
+D:\Test\iBatisDemo\DAO\bin\Debug\Model.dll
+D:\Test\iBatisDemo\DAO\bin\Debug\Castle.DynamicProxy.dll
+D:\Test\iBatisDemo\DAO\bin\Debug\IDAO.pdb
+D:\Test\iBatisDemo\DAO\bin\Debug\Model.pdb
+D:\Test\iBatisDemo\DAO\bin\Debug\IBatisNet.DataAccess.xml
+D:\Test\iBatisDemo\DAO\bin\Debug\IBatisNet.Common.xml
+D:\Test\iBatisDemo\DAO\bin\Debug\IBatisNet.DataMapper.xml
+D:\Test\iBatisDemo\DAO\obj\Debug\ResolveAssemblyReference.cache
+D:\Test\iBatisDemo\DAO\obj\Debug\DAO.dll
+D:\Test\iBatisDemo\DAO\obj\Debug\DAO.pdb

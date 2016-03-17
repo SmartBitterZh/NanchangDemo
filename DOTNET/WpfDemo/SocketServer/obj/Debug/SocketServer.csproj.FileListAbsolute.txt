@@ -1,0 +1,16 @@
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\WpfDemo\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\WpfDemo\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\WpfDemo\SocketServer\bin\Debug\MySocketServer.dll
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\WpfDemo\SocketServer\bin\Debug\MySocketServer.pdb
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\WpfDemo\SocketServer\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\WpfDemo\SocketServer\obj\Debug\MainWindow.baml
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\WpfDemo\SocketServer\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\WpfDemo\SocketServer\obj\Debug\App.g.cs
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\WpfDemo\SocketServer\obj\Debug\SocketServer_MarkupCompile.cache
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\WpfDemo\SocketServer\obj\Debug\SocketServer.g.resources
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\WpfDemo\SocketServer\obj\Debug\SocketServer.Properties.Resources.resources
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\WpfDemo\SocketServer\obj\Debug\SocketServer.csproj.GenerateResource.Cache
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\WpfDemo\SocketServer\obj\Debug\SocketServer.exe
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\WpfDemo\SocketServer\obj\Debug\SocketServer.pdb
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\WpfDemo\SocketServer\bin\Debug\DBControl.dll
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\WpfDemo\SocketServer\bin\Debug\DBControl.pdb

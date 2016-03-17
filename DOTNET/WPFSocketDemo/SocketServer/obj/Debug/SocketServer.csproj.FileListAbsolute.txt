@@ -1,0 +1,5 @@
+c:\users\dell\documents\visual studio 2013\Projects\WPFSocketDemo\SocketServer\bin\Debug\SocketServer.exe
+c:\users\dell\documents\visual studio 2013\Projects\WPFSocketDemo\SocketServer\bin\Debug\SocketServer.pdb
+c:\users\dell\documents\visual studio 2013\Projects\WPFSocketDemo\SocketServer\obj\Debug\SocketServer.exe
+c:\users\dell\documents\visual studio 2013\Projects\WPFSocketDemo\SocketServer\obj\Debug\SocketServer.pdb
+C:\Users\DELL\documents\visual studio 2013\Projects\WPFSocketDemo\SocketServer\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache

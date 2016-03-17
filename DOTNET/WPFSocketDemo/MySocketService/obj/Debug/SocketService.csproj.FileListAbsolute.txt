@@ -1,0 +1,5 @@
+c:\users\dell\documents\visual studio 2013\Projects\WPFSocketDemo\SocketService\obj\Debug\SocketService.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\WPFSocketDemo\SocketService\bin\Debug\SocketService.dll
+c:\users\dell\documents\visual studio 2013\Projects\WPFSocketDemo\SocketService\bin\Debug\SocketService.pdb
+c:\users\dell\documents\visual studio 2013\Projects\WPFSocketDemo\SocketService\obj\Debug\SocketService.dll
+c:\users\dell\documents\visual studio 2013\Projects\WPFSocketDemo\SocketService\obj\Debug\SocketService.pdb

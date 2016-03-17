@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<sqlMap namespace="Model" xmlns="http://ibatis.apache.org/mapping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <alias>
+        <typeAlias alias="Order" type="Model.Order, Model" />
+        <typeAlias alias="OrderProduct" type="Model.OrderProduct, Model" />
+    </alias>
+
+    <resultMaps>
+        <resultMap id="Order-Select-Result" class="Order">
+            <result property="ID" column="ID" />
+            <result property="CreateTime" column="CreateTime" />
+            <result property="CustomID" column="CustomID" />
+            <result property="Status" column="Status" />
+        </resultMap>
+        <resultMap id="OrderProduct-Select-Result" class="OrderProduct">
+            <result property="OrderID" column="OrderID"/>
+            <result property="ProductID" column="ProductID"/>
+            <result property="ProductName" column="ProductName"/>
+            <result property="Num" column="Num"/>
+            <result property="Price" column="Price"/>
+        </resultMap>
+    </resultMaps>
+
+    <statements>
+        <select id="Order-Select" parameterClass="Guid" resultMap="Order-Select-Result">
+            select
+            ID,
+            CreateTime,
+            CustomID,
+            Status
+            from [Order]
+            <dynamic prepend="WHERE">
+                <isParameterPresent>
+                    ID=#value#
+                </isParameterPresent>
+            </dynamic>
+        </select>
+
+        <statement id="Order-Select-Pager" parameterClass="PagerItem" resultMap="Order-Select-Result">
+            <![CDATA[
+            Select top $PageSize$ * from [Order]
+            where ID not in (select top $FilterRows$ ID from [Order] where ID like '%$Keywords$%')
+            and (ID like '%$Keywords$%')
+]]>
+        </statement>
+
+        <insert id="Order-Insert" parameterClass="Order">
+            Insert Into [Order](ID,CreateTime,CustomID,Status) values(#ID#,#CreateTime#,#CustomID#,#Status#)
+        </insert>
+        <update id="Order-Update" parameterClass="Order">
+            Update [Order] set
+            Status=#Status#
+            WHERE ID=#ID#
+        </update>
+        <delete id="Order-Delete" parameterClass="Guid">
+            Delete From [Order] WHERE ID=#value#
+            Delete From OrderProduct where OrderID=#value#
+        </delete>
+
+        <select id="OrderProduct-Select" parameterClass="Guid" resultMap="OrderProduct-Select-Result">
+            select OrderID,ProductID,ProductName,Num,Price from OrderProduct where OrderID=#value#
+        </select>
+        <insert id="OrderProduct-Insert" parameterClass="OrderProduct">
+            Insert Into OrderProduct
+            (OrderID,ProductID,ProductName,Num,Price)
+            values
+            (#OrderID#,#ProductID#,#ProductName#,#Num#,#Price#)
+        </insert>
+    </statements>
+</sqlMap>

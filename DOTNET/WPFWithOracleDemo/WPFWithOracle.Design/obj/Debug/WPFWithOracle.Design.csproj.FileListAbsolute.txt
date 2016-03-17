@@ -1,0 +1,12 @@
+E:\Projects\WPFWithOracleDemo\WPFWithOracle.Design\bin\Debug\WPFWithOracle.Design.exe
+E:\Projects\WPFWithOracleDemo\WPFWithOracle.Design\bin\Debug\WPFWithOracle.Design.pdb
+E:\Projects\WPFWithOracleDemo\WPFWithOracle.Design\obj\Debug\MainWindow.baml
+E:\Projects\WPFWithOracleDemo\WPFWithOracle.Design\obj\Debug\MainWindow.g.cs
+E:\Projects\WPFWithOracleDemo\WPFWithOracle.Design\obj\Debug\App.g.cs
+E:\Projects\WPFWithOracleDemo\WPFWithOracle.Design\obj\Debug\WPFWithOracle.Design_MarkupCompile.cache
+E:\Projects\WPFWithOracleDemo\WPFWithOracle.Design\obj\Debug\WPFWithOracle.Design.g.resources
+E:\Projects\WPFWithOracleDemo\WPFWithOracle.Design\obj\Debug\WPFWithOracle.Design.Properties.Resources.resources
+E:\Projects\WPFWithOracleDemo\WPFWithOracle.Design\obj\Debug\WPFWithOracle.Design.csproj.GenerateResource.Cache
+E:\Projects\WPFWithOracleDemo\WPFWithOracle.Design\obj\Debug\WPFWithOracle.Design.exe
+E:\Projects\WPFWithOracleDemo\WPFWithOracle.Design\obj\Debug\WPFWithOracle.Design.pdb
+E:\Projects\WPFWithOracleDemo\WPFWithOracle.Design\obj\Debug\WPFWithOracle.Design.csprojResolveAssemblyReference.cache

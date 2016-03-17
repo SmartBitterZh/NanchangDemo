@@ -1,0 +1,4 @@
+E:\Projects\WPFWithOracleDemo\WPFWithOracle.Socket\bin\Debug\WPFWithOracle.Socket.dll
+E:\Projects\WPFWithOracleDemo\WPFWithOracle.Socket\bin\Debug\WPFWithOracle.Socket.pdb
+E:\Projects\WPFWithOracleDemo\WPFWithOracle.Socket\obj\Debug\WPFWithOracle.Socket.dll
+E:\Projects\WPFWithOracleDemo\WPFWithOracle.Socket\obj\Debug\WPFWithOracle.Socket.pdb

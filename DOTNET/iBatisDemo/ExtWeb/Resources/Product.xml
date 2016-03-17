@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<sqlMap namespace="Model" xmlns="http://ibatis.apache.org/mapping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <alias>
+        <typeAlias alias="Product" type="Model.Product, Model" />
+        <typeAlias alias="PagerItem" type="Model.PagerItem, Model"/>
+    </alias>
+
+    <resultMaps>
+        <resultMap id="Product-Select-Result" class="Product">
+            <result property="ID" column="ID" />
+            <result property="ProductName" column="ProductName" />
+            <result property="NormalPrice" column="NormalPrice" />
+            <result property="MemberPrice" column="MemberPrice" />
+        </resultMap>
+    </resultMaps>
+
+    <statements>
+        <select id="Product-Select" parameterClass="int" resultMap="Product-Select-Result">
+            select
+            ID,
+            ProductName,
+            NormalPrice,
+            MemberPrice
+            from Product
+            <dynamic prepend="WHERE">
+                <isParameterPresent>
+                    ID=#value#
+                </isParameterPresent>
+            </dynamic>
+        </select>
+        
+        <statement id="Product-Select-Pager" parameterClass="PagerItem" resultMap="Product-Select-Result">
+<![CDATA[
+            Select top $PageSize$ ID,ProductName,NormalPrice,MemberPrice from Product
+            where ID not in (select top $FilterRows$ ID from Product where ProductName like '%$Keywords$%')
+            and (ProductName like '%$Keywords$%')
+]]>
+        </statement>
+        
+        <insert id="Product-Insert" parameterClass="Product">
+            Insert Into Product
+            (ProductName,NormalPrice,MemberPrice)
+            values
+            (#ProductName#,#NormalPrice#,#MemberPrice#)
+        </insert>
+        <update id="Product-Update" parameterClass="Product">
+            Update Product set
+            ProductName=#ProductName#,
+            NormalPrice=#NormalPrice#,
+            MemberPrice=#MemberPrice#
+            WHERE ID=#ID#
+        </update>
+        <delete id="Product-Delete" parameterClass="int">
+            Delete From Product WHERE ID=#value#
+        </delete>
+    </statements>
+</sqlMap>

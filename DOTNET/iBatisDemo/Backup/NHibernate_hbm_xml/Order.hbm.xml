@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+    <class name="Model.Order, Model" table="[Order]">
+        <id name="ID" column="ID" type="Guid">
+            <generator class="guid.comb" />
+        </id>
+        <property name="CreateTime" column="CreateTime" type="DateTime" />
+        <property name="CustomID" column="CustomID" type="Int32" />
+        <property name="Status" column="Status" type="Int32" />
+        <bag name="OrderProducts" cascade="all-delete-orphan" inverse="false" lazy="false">
+            <key column = "OrderID" />
+            <one-to-many class="Model.OrderProduct" />
+        </bag>
+    </class>
+</hibernate-mapping>

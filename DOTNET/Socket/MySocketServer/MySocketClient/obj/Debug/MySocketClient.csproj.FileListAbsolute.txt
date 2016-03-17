@@ -1,0 +1,7 @@
+c:\users\dell\documents\visual studio 2013\Projects\MySocketServer\MySocketClient\bin\Debug\MySocketClient.pdb
+c:\users\dell\documents\visual studio 2013\Projects\MySocketServer\MySocketClient\obj\Debug\MySocketClient.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\MySocketServer\MySocketClient\obj\Debug\MySocketClient.pdb
+c:\users\dell\documents\visual studio 2013\Projects\MySocketServer\MySocketClient\bin\Debug\MySocketClient.exe
+c:\users\dell\documents\visual studio 2013\Projects\MySocketServer\MySocketClient\bin\Debug\MySocketServer.exe
+c:\users\dell\documents\visual studio 2013\Projects\MySocketServer\MySocketClient\bin\Debug\MySocketServer.pdb
+c:\users\dell\documents\visual studio 2013\Projects\MySocketServer\MySocketClient\obj\Debug\MySocketClient.exe

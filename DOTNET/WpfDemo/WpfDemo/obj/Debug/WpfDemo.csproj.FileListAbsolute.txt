@@ -1,0 +1,16 @@
+c:\users\dell\documents\visual studio 2013\Projects\WpfDemo\WpfDemo\bin\Debug\WpfDemo.exe
+c:\users\dell\documents\visual studio 2013\Projects\WpfDemo\WpfDemo\bin\Debug\WpfDemo.pdb
+c:\users\dell\documents\visual studio 2013\Projects\WpfDemo\WpfDemo\obj\Debug\WpfDemo.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\WpfDemo\WpfDemo\obj\Debug\MainWindow.baml
+c:\users\dell\documents\visual studio 2013\Projects\WpfDemo\WpfDemo\obj\Debug\MainWindow.g.cs
+c:\users\dell\documents\visual studio 2013\Projects\WpfDemo\WpfDemo\obj\Debug\App.g.cs
+c:\users\dell\documents\visual studio 2013\Projects\WpfDemo\WpfDemo\obj\Debug\WpfDemo_MarkupCompile.cache
+c:\users\dell\documents\visual studio 2013\Projects\WpfDemo\WpfDemo\obj\Debug\WpfDemo.g.resources
+c:\users\dell\documents\visual studio 2013\Projects\WpfDemo\WpfDemo\obj\Debug\WpfDemo.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2013\Projects\WpfDemo\WpfDemo\obj\Debug\WpfDemo.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2013\Projects\WpfDemo\WpfDemo\obj\Debug\WpfDemo.exe
+c:\users\dell\documents\visual studio 2013\Projects\WpfDemo\WpfDemo\obj\Debug\WpfDemo.pdb
+c:\users\dell\documents\visual studio 2013\Projects\WpfDemo\WpfDemo\bin\Debug\MySocketServer.dll
+c:\users\dell\documents\visual studio 2013\Projects\WpfDemo\WpfDemo\bin\Debug\MySocketServer.pdb
+c:\users\dell\documents\visual studio 2013\Projects\WpfDemo\WpfDemo\bin\Debug\DBControl.dll
+c:\users\dell\documents\visual studio 2013\Projects\WpfDemo\WpfDemo\bin\Debug\DBControl.pdb

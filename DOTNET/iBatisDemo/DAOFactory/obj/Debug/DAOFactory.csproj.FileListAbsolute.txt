@@ -1,0 +1,5 @@
+E:\Projects\iBatisDemo\DAOFactory\bin\Debug\DAOFactory.dll
+E:\Projects\iBatisDemo\DAOFactory\bin\Debug\DAOFactory.pdb
+E:\Projects\iBatisDemo\DAOFactory\obj\Debug\DAOFactory.csprojResolveAssemblyReference.cache
+E:\Projects\iBatisDemo\DAOFactory\obj\Debug\DAOFactory.dll
+E:\Projects\iBatisDemo\DAOFactory\obj\Debug\DAOFactory.pdb

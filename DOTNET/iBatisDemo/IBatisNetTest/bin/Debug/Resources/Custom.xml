@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<sqlMap
+	namespace="Model" xmlns="http://ibatis.apache.org/mapping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+    <!-- XML "behind" document for the People service class. -->
+
+    <alias>
+        <typeAlias alias="Custom" type="Model.Custom, Model" />
+    </alias>
+
+    <resultMaps>
+        <resultMap id="SelectResult" class="Custom">
+            <result property="ID" column="ID" />
+            <result property="CustomName" column="CustomName" />
+            <result property="Address" column="Address" />
+        </resultMap>
+    </resultMaps>
+
+    <statements>
+
+        <select id="Select" parameterClass="int" resultMap="SelectResult">
+            select
+            ID,
+            CustomName,
+            Address
+            from Custom
+            <dynamic prepend="WHERE">
+                <isParameterPresent>
+                    ID=#value#
+                </isParameterPresent>
+            </dynamic>
+        </select>
+        <insert id="Insert" parameterClass="Custom">
+            Insert Into Custom
+            (CustomName,Address)
+            values
+            (#CustomName#,#Address#)
+        </insert>
+        <update id="Update" parameterClass="Custom">
+            Update Custom set
+            CustomName=#CustomName#,
+            Address=#Address#
+            WHERE ID=#ID#
+        </update>
+        <delete id="Delete" parameterClass="int">
+            Delete From Custom WHERE ID=#value#
+        </delete>
+    </statements>
+
+</sqlMap>

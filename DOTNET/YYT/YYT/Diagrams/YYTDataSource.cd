@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="YYT.Web.Design.YYTDataSourceDesigner" Collapsed="true">
+    <Position X="4" Y="3" Width="2.25" />
+    <TypeIdentifier>
+      <FileName>Web\Design\YYTDataSourceDesigner.cs</FileName>
+      <HashCode>EAAAAACAAAAAAQABAAAAAAAAAAAAAAACCCABAAIAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YYT.Web.Design.YYTDesignerDataSourceView" Collapsed="true">
+    <Position X="4" Y="4.25" Width="2.25" />
+    <TypeIdentifier>
+      <FileName>Web\Design\YYTDesignerDataSourceView.cs</FileName>
+      <HashCode>AEACgAQAAAAAAAAAABABAAAEAAAAAAAAAAABAQAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YYT.Web.Design.ObjectFieldInfo" Collapsed="true">
+    <Position X="7" Y="6.25" Width="2.25" />
+    <TypeIdentifier>
+      <FileName>Web\Design\ObjectFieldInfo.cs</FileName>
+      <HashCode>AAAAAAAAAAIEAAAQgIIAAAREAAAwAEAABEAAAAAAkAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="YYT.Web.Design.ObjectSchema" Collapsed="true">
+    <Position X="7" Y="4.25" Width="2.25" />
+    <TypeIdentifier>
+      <FileName>Web\Design\ObjectSchema.cs</FileName>
+      <HashCode>AAAAAAAAAABAAAABAAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="YYT.Web.Design.ObjectViewSchema" Collapsed="true">
+    <Position X="7" Y="5.25" Width="2.25" />
+    <TypeIdentifier>
+      <FileName>Web\Design\ObjectViewSchema.cs</FileName>
+      <HashCode>AIAAAAAAgABAAAABAAAAAAQAAAAAQAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="YYT.Web.YYTDataSource" Collapsed="true">
+    <Position X="0.5" Y="3" Width="2.25" />
+    <TypeIdentifier>
+      <FileName>Web\YYTDataSource.cs</FileName>
+      <HashCode>AAAAgAAAAAAkAgABIAIAEABAAAAAABEACAABAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YYT.Web.SelectObjectArgs" Collapsed="true">
+    <Position X="4.75" Y="1.5" Width="2.25" />
+    <TypeIdentifier>
+      <FileName>Web\YYTDataSource.cs</FileName>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YYT.Web.InsertObjectArgs" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <FileName>Web\YYTDataSource.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAQAAAAAAAAgAAAAACA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YYT.Web.UpdateObjectArgs" Collapsed="true">
+    <Position X="7.25" Y="1.5" Width="2.25" />
+    <TypeIdentifier>
+      <FileName>Web\YYTDataSource.cs</FileName>
+      <HashCode>AAQQAAAAAAAAAAgACEAAAAAAAAQAAAAAAAAgAAAAACA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YYT.Web.DeleteObjectArgs" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <FileName>Web\YYTDataSource.cs</FileName>
+      <HashCode>AAQQAAAAAAAAAAgACEAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YYT.Web.YYTDataSourceView" Collapsed="true">
+    <Position X="0.5" Y="4.25" Width="2.25" />
+    <TypeIdentifier>
+      <FileName>Web\YYTDataSourceView.cs</FileName>
+      <HashCode>AEACgAQAAABAAgABABAAAAAACAAAABAQAAgBAQAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>

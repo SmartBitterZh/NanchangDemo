@@ -1,0 +1,81 @@
+E:\学习资料\YYT V1.0\YYT\YYT\obj\Debug\ResolveAssemblyReference.cache
+E:\学习资料\YYT V1.0\YYT\YYT\bin\Debug\YYT.dll
+E:\学习资料\YYT V1.0\YYT\YYT\bin\Debug\YYT.pdb
+E:\学习资料\YYT V1.0\YYT\YYT\obj\Debug\YYT.dll
+E:\学习资料\YYT V1.0\YYT\YYT\obj\Debug\YYT.pdb
+E:\Disk D\wangyang\Ebook\Ready To Read Books\YYT\YYT\bin\Debug\YYT.dll
+E:\Disk D\wangyang\Ebook\Ready To Read Books\YYT\YYT\bin\Debug\YYT.pdb
+E:\Disk D\wangyang\Ebook\Ready To Read Books\YYT\YYT\obj\Debug\ResolveAssemblyReference.cache
+E:\Disk D\wangyang\Ebook\Ready To Read Books\YYT\YYT\obj\Debug\YYT.dll
+E:\Disk D\wangyang\Ebook\Ready To Read Books\YYT\YYT\obj\Debug\YYT.pdb
+E:\Disk D\wangyang\Ebook\Ready To Read Books\YYT\YYT\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Disk D\wangyang\Ebook\Ready To Read Books\YYT\YYT\obj\Debug\YYT_MarkupCompile.cache
+E:\Disk D\wangyang\Ebook\Ready To Read Books\YYT\YYT\obj\Debug\YYT_MarkupCompile.lref
+E:\Disk D\wangyang\Ebook\Ready To Read Books\YYT\YYT\bin\Debug\YYT.dll.config
+E:\Disk D\wangyang\Ebook\Ready To Read Books\YYT\YYT\bin\Debug\zh-CHS\YYT.resources.dll
+E:\Disk D\wangyang\Ebook\Ready To Read Books\YYT\YYT\obj\Debug\Themes\Generic.baml
+E:\Disk D\wangyang\Ebook\Ready To Read Books\YYT\YYT\obj\Debug\YYT.g.resources
+E:\Disk D\wangyang\Ebook\Ready To Read Books\YYT\YYT\obj\Debug\YYT.Properties.Resources.resources
+E:\Disk D\wangyang\Ebook\Ready To Read Books\YYT\YYT\obj\Debug\YYT.Web.Design.YYTDataSourceConfiguration.resources
+E:\Disk D\wangyang\Ebook\Ready To Read Books\YYT\YYT\obj\Debug\YYT.Windows.BusyAnimation.resources
+E:\Disk D\wangyang\Ebook\Ready To Read Books\YYT\YYT\obj\Debug\YYT.Properties.Resources.zh-CHS.resources
+E:\Disk D\wangyang\Ebook\Ready To Read Books\YYT\YYT\obj\Debug\GenerateResource.read.1.tlog
+E:\Disk D\wangyang\Ebook\Ready To Read Books\YYT\YYT\obj\Debug\GenerateResource.write.1.tlog
+E:\Disk D\wangyang\Ebook\Ready To Read Books\YYT\YYT\obj\Debug\zh-CHS\YYT.resources.dll
+E:\学习资料\YYT V1.0\YYT 1.0\YYT\YYT\obj\Debug\ResolveAssemblyReference.cache
+E:\学习资料\YYT V1.0\YYT 1.0\YYT\YYT\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\学习资料\YYT V1.0\YYT 1.0\YYT\YYT\obj\Debug\YYT_MarkupCompile.cache
+E:\学习资料\YYT V1.0\YYT 1.0\YYT\YYT\obj\Debug\YYT_MarkupCompile.lref
+E:\学习资料\YYT V1.0\YYT 1.0\YYT\YYT\obj\Debug\YYT.dll
+E:\学习资料\YYT V1.0\YYT 1.0\YYT\YYT\obj\Debug\YYT.pdb
+E:\学习资料\YYT V1.0\YYT 1.0\YYT\YYT\bin\Debug\YYT.dll.config
+E:\学习资料\YYT V1.0\YYT 1.0\YYT\YYT\bin\Debug\YYT.dll
+E:\学习资料\YYT V1.0\YYT 1.0\YYT\YYT\bin\Debug\YYT.pdb
+E:\学习资料\YYT V1.0\YYT 1.0\YYT\YYT\bin\Debug\zh-CHS\YYT.resources.dll
+E:\学习资料\YYT V1.0\YYT 1.0\YYT\YYT\obj\Debug\Themes\Generic.baml
+E:\学习资料\YYT V1.0\YYT 1.0\YYT\YYT\obj\Debug\YYT.g.resources
+E:\学习资料\YYT V1.0\YYT 1.0\YYT\YYT\obj\Debug\YYT.Properties.Resources.resources
+E:\学习资料\YYT V1.0\YYT 1.0\YYT\YYT\obj\Debug\YYT.Web.Design.YYTDataSourceConfiguration.resources
+E:\学习资料\YYT V1.0\YYT 1.0\YYT\YYT\obj\Debug\YYT.Windows.BusyAnimation.resources
+E:\学习资料\YYT V1.0\YYT 1.0\YYT\YYT\obj\Debug\YYT.Properties.Resources.zh-CHS.resources
+E:\学习资料\YYT V1.0\YYT 1.0\YYT\YYT\obj\Debug\GenerateResource.read.1.tlog
+E:\学习资料\YYT V1.0\YYT 1.0\YYT\YYT\obj\Debug\GenerateResource.write.1.tlog
+E:\学习资料\YYT V1.0\YYT 1.0\YYT\YYT\obj\Debug\zh-CHS\YYT.resources.dll
+E:\Disk D\wangyang\Ebook\Ready To Read Books\YYT\YYT\YYT\obj\Debug\ResolveAssemblyReference.cache
+E:\Disk D\wangyang\Ebook\Ready To Read Books\YYT\YYT\YYT\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Disk D\wangyang\Ebook\Ready To Read Books\YYT\YYT\YYT\obj\Debug\YYT_MarkupCompile.cache
+E:\Disk D\wangyang\Ebook\Ready To Read Books\YYT\YYT\YYT\obj\Debug\YYT_MarkupCompile.lref
+E:\Disk D\wangyang\Ebook\Ready To Read Books\YYT\YYT\YYT\obj\Debug\YYT.dll
+E:\Disk D\wangyang\Ebook\Ready To Read Books\YYT\YYT\YYT\obj\Debug\YYT.pdb
+E:\Disk D\wangyang\Ebook\Ready To Read Books\YYT\YYT\YYT\bin\Debug\YYT.dll.config
+E:\Disk D\wangyang\Ebook\Ready To Read Books\YYT\YYT\YYT\bin\Debug\YYT.dll
+E:\Disk D\wangyang\Ebook\Ready To Read Books\YYT\YYT\YYT\bin\Debug\YYT.pdb
+E:\Disk D\wangyang\Ebook\Ready To Read Books\YYT\YYT\YYT\bin\Debug\zh-CHS\YYT.resources.dll
+E:\Disk D\wangyang\Ebook\Ready To Read Books\YYT\YYT\YYT\obj\Debug\Themes\Generic.baml
+E:\Disk D\wangyang\Ebook\Ready To Read Books\YYT\YYT\YYT\obj\Debug\YYT.g.resources
+E:\Disk D\wangyang\Ebook\Ready To Read Books\YYT\YYT\YYT\obj\Debug\YYT.Properties.Resources.resources
+E:\Disk D\wangyang\Ebook\Ready To Read Books\YYT\YYT\YYT\obj\Debug\YYT.Web.Design.YYTDataSourceConfiguration.resources
+E:\Disk D\wangyang\Ebook\Ready To Read Books\YYT\YYT\YYT\obj\Debug\YYT.Windows.BusyAnimation.resources
+E:\Disk D\wangyang\Ebook\Ready To Read Books\YYT\YYT\YYT\obj\Debug\YYT.Properties.Resources.zh-CHS.resources
+E:\Disk D\wangyang\Ebook\Ready To Read Books\YYT\YYT\YYT\obj\Debug\GenerateResource.read.1.tlog
+E:\Disk D\wangyang\Ebook\Ready To Read Books\YYT\YYT\YYT\obj\Debug\GenerateResource.write.1.tlog
+E:\Disk D\wangyang\Ebook\Ready To Read Books\YYT\YYT\YYT\obj\Debug\zh-CHS\YYT.resources.dll
+E:\Disk D\wangyang\YYT\YYT\bin\Debug\YYT.dll.config
+E:\Disk D\wangyang\YYT\YYT\bin\Debug\YYT.dll
+E:\Disk D\wangyang\YYT\YYT\bin\Debug\YYT.pdb
+E:\Disk D\wangyang\YYT\YYT\bin\Debug\zh-CHS\YYT.resources.dll
+E:\Disk D\wangyang\YYT\YYT\obj\Debug\ResolveAssemblyReference.cache
+E:\Disk D\wangyang\YYT\YYT\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Disk D\wangyang\YYT\YYT\obj\Debug\YYT_MarkupCompile.cache
+E:\Disk D\wangyang\YYT\YYT\obj\Debug\YYT_MarkupCompile.lref
+E:\Disk D\wangyang\YYT\YYT\obj\Debug\Themes\Generic.baml
+E:\Disk D\wangyang\YYT\YYT\obj\Debug\YYT.g.resources
+E:\Disk D\wangyang\YYT\YYT\obj\Debug\YYT.Properties.Resources.resources
+E:\Disk D\wangyang\YYT\YYT\obj\Debug\YYT.Web.Design.YYTDataSourceConfiguration.resources
+E:\Disk D\wangyang\YYT\YYT\obj\Debug\YYT.Windows.BusyAnimation.resources
+E:\Disk D\wangyang\YYT\YYT\obj\Debug\YYT.Properties.Resources.zh-CHS.resources
+E:\Disk D\wangyang\YYT\YYT\obj\Debug\GenerateResource.read.1.tlog
+E:\Disk D\wangyang\YYT\YYT\obj\Debug\GenerateResource.write.1.tlog
+E:\Disk D\wangyang\YYT\YYT\obj\Debug\zh-CHS\YYT.resources.dll
+E:\Disk D\wangyang\YYT\YYT\obj\Debug\YYT.dll
+E:\Disk D\wangyang\YYT\YYT\obj\Debug\YYT.pdb

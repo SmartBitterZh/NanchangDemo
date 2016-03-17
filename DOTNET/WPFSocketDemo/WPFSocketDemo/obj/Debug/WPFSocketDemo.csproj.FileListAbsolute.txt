@@ -1,0 +1,12 @@
+c:\users\dell\documents\visual studio 2013\Projects\WPFSocketDemo\WPFSocketDemo\bin\Debug\WPFSocketDemo.exe
+c:\users\dell\documents\visual studio 2013\Projects\WPFSocketDemo\WPFSocketDemo\bin\Debug\WPFSocketDemo.pdb
+c:\users\dell\documents\visual studio 2013\Projects\WPFSocketDemo\WPFSocketDemo\obj\Debug\WPFSocketDemo.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\WPFSocketDemo\WPFSocketDemo\obj\Debug\MainWindow.baml
+c:\users\dell\documents\visual studio 2013\Projects\WPFSocketDemo\WPFSocketDemo\obj\Debug\MainWindow.g.cs
+c:\users\dell\documents\visual studio 2013\Projects\WPFSocketDemo\WPFSocketDemo\obj\Debug\App.g.cs
+c:\users\dell\documents\visual studio 2013\Projects\WPFSocketDemo\WPFSocketDemo\obj\Debug\WPFSocketDemo_MarkupCompile.cache
+c:\users\dell\documents\visual studio 2013\Projects\WPFSocketDemo\WPFSocketDemo\obj\Debug\WPFSocketDemo.g.resources
+c:\users\dell\documents\visual studio 2013\Projects\WPFSocketDemo\WPFSocketDemo\obj\Debug\WPFSocketDemo.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2013\Projects\WPFSocketDemo\WPFSocketDemo\obj\Debug\WPFSocketDemo.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2013\Projects\WPFSocketDemo\WPFSocketDemo\obj\Debug\WPFSocketDemo.exe
+c:\users\dell\documents\visual studio 2013\Projects\WPFSocketDemo\WPFSocketDemo\obj\Debug\WPFSocketDemo.pdb

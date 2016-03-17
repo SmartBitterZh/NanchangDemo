@@ -1,0 +1,10 @@
+E:\CPUSGAME\ZYSocketSuper\ZYSocketSuper\obj\Debug\ResolveAssemblyReference.cache
+E:\CPUSGAME\ZYSocketSuper\ZYSocketSuper\bin\Debug\ZYSocketSuper.exe
+E:\CPUSGAME\ZYSocketSuper\ZYSocketSuper\bin\Debug\ZYSocketSuper.pdb
+E:\CPUSGAME\ZYSocketSuper\ZYSocketSuper\obj\Debug\ZYSocketSuper.exe
+E:\CPUSGAME\ZYSocketSuper\ZYSocketSuper\obj\Debug\ZYSocketSuper.pdb
+E:\Projects\ZYSocketSuper\ZYSocketSuper\obj\Debug\ZYSocketSuper.exe
+E:\Projects\ZYSocketSuper\ZYSocketSuper\obj\Debug\ZYSocketSuper.pdb
+E:\Projects\ZYSocketSuper\ZYSocketSuper\bin\Debug\ZYSocketSuper.exe
+E:\Projects\ZYSocketSuper\ZYSocketSuper\bin\Debug\ZYSocketSuper.pdb
+E:\Projects\ZYSocketSuper\ZYSocketSuper\obj\Debug\ZYSocketSuper.csprojResolveAssemblyReference.cache

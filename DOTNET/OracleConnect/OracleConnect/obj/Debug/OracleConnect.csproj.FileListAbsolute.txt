@@ -1,0 +1,10 @@
+E:\Projects\OracleConnect\OracleConnect\bin\Debug\OracleConnect.exe.config
+E:\Projects\OracleConnect\OracleConnect\bin\Debug\OracleConnect.exe
+E:\Projects\OracleConnect\OracleConnect\bin\Debug\OracleConnect.pdb
+E:\Projects\OracleConnect\OracleConnect\obj\Debug\OracleConnect.exe
+E:\Projects\OracleConnect\OracleConnect\obj\Debug\OracleConnect.pdb
+E:\Projects\OracleConnect\OracleConnect\obj\Debug\OracleConnect.csprojResolveAssemblyReference.cache
+E:\Projects\OracleConnect\OracleConnect\bin\Debug\EntityFramework.dll
+E:\Projects\OracleConnect\OracleConnect\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\OracleConnect\OracleConnect\bin\Debug\EntityFramework.xml
+E:\Projects\OracleConnect\OracleConnect\bin\Debug\EntityFramework.SqlServer.xml

@@ -1,0 +1,16 @@
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\RabbitMQDemo\Receive\bin\Debug\Receive.exe
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\RabbitMQDemo\Receive\bin\Debug\Receive.pdb
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\RabbitMQDemo\Receive\obj\Debug\Receive.exe
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\RabbitMQDemo\Receive\obj\Debug\Receive.pdb
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\RabbitMQDemo\Receive\bin\Debug\Receive.exe.config
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\RabbitMQDemo\Receive\bin\Debug\RabbitMQ.Client.dll
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\RabbitMQDemo\Receive\bin\Debug\RabbitMQ.ServiceModel.dll
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\RabbitMQDemo\Receive\bin\Debug\RabbitMQ.Client.xml
+E:\Projects\DOTNET\RabbitMQDemo\Receive\bin\Debug\Receive.exe.config
+E:\Projects\DOTNET\RabbitMQDemo\Receive\bin\Debug\Receive.exe
+E:\Projects\DOTNET\RabbitMQDemo\Receive\bin\Debug\Receive.pdb
+E:\Projects\DOTNET\RabbitMQDemo\Receive\bin\Debug\RabbitMQ.Client.dll
+E:\Projects\DOTNET\RabbitMQDemo\Receive\bin\Debug\RabbitMQ.ServiceModel.dll
+E:\Projects\DOTNET\RabbitMQDemo\Receive\bin\Debug\RabbitMQ.Client.xml
+E:\Projects\DOTNET\RabbitMQDemo\Receive\obj\Debug\Receive.exe
+E:\Projects\DOTNET\RabbitMQDemo\Receive\obj\Debug\Receive.pdb

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+    <class name="Model.OrderProduct, Model" table="OrderProduct">
+        <id name="ID" column="ID" type="Guid">
+            <generator class="guid.comb" />
+        </id>
+        <property name="OrderID" column="OrderID" type="Guid" />
+        <property name="ProductID" column="ProductID" type="Int32" />
+        <property name="ProductName" column="ProductName" type="String" length="50" />
+        <property name="Num" column="Num" type="Int32"  />
+        <property name="Price" column="Price" type="Decimal"  />
+    </class>
+</hibernate-mapping>

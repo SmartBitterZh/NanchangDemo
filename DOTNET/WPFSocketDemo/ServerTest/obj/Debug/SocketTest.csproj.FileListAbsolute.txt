@@ -1,0 +1,4 @@
+c:\users\dell\documents\visual studio 2013\Projects\WPFSocketDemo\ServerTest\bin\Debug\SocketTest.exe
+c:\users\dell\documents\visual studio 2013\Projects\WPFSocketDemo\ServerTest\bin\Debug\SocketTest.pdb
+c:\users\dell\documents\visual studio 2013\Projects\WPFSocketDemo\ServerTest\obj\Debug\SocketTest.exe
+c:\users\dell\documents\visual studio 2013\Projects\WPFSocketDemo\ServerTest\obj\Debug\SocketTest.pdb

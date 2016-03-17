@@ -1,0 +1,50 @@
+body {
+	font-size: 20px;
+	color: #000000;
+	font-family: 宋体;
+	scrollbar-face-color: #DEE3E7;
+	scrollbar-highlight-color: #FFFFFF;
+	scrollbar-shadow-color: #DEE3E7;
+	scrollbar-3dlight-color: #D1D7DC;
+	scrollbar-arrow-color: #006699;
+	scrollbar-track-color: #EFEFEF;
+	scrollbar-darkshadow-color: #98AAB1;
+}
+
+.tableBorder {
+	width: 95%;
+	background-color: #AFB2C4;
+}
+
+th {
+	background-image: url('../images/th.gif');
+	background-color: #858BAA;
+	color: white;
+	font-size: 19px;
+	font-weight: bold
+}
+
+.tableBody1 {
+	background-color: #E4F3FF;
+	line-height: normal;
+}
+
+.tableBody2 {
+	background-color: #FFFFFF;
+	line-height: normal;
+}
+
+a:link,a:active {
+	text-decoration: none;
+	color: #000000
+}
+
+a:hover {
+	text-decoration: underline;
+	color: #858BAA
+}
+
+a:visited {
+	text-decoration: none;
+	color: #8A8A8A
+}

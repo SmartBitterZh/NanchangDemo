@@ -1,0 +1,4 @@
+c:\Users\DELL\documents\visual studio 2013\Projects\WpfDemo\DatabaseControl\bin\Debug\DatabaseControl.dll
+c:\Users\DELL\documents\visual studio 2013\Projects\WpfDemo\DatabaseControl\bin\Debug\DatabaseControl.pdb
+c:\Users\DELL\documents\visual studio 2013\Projects\WpfDemo\DatabaseControl\obj\Debug\DatabaseControl.dll
+c:\Users\DELL\documents\visual studio 2013\Projects\WpfDemo\DatabaseControl\obj\Debug\DatabaseControl.pdb

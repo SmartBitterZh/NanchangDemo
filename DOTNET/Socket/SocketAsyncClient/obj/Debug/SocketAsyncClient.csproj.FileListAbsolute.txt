@@ -1,0 +1,5 @@
+E:\Projects\SocketAsyncClient\bin\Debug\SocketAsyncClient.exe
+E:\Projects\SocketAsyncClient\bin\Debug\SocketAsyncClient.pdb
+E:\Projects\SocketAsyncClient\obj\Debug\SocketAsyncClient.csprojResolveAssemblyReference.cache
+E:\Projects\SocketAsyncClient\obj\Debug\SocketAsyncClient.exe
+E:\Projects\SocketAsyncClient\obj\Debug\SocketAsyncClient.pdb

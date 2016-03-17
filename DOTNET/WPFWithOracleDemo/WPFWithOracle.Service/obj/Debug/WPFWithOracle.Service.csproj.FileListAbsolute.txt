@@ -1,0 +1,13 @@
+E:\Projects\WPFWithOracleDemo\WPFWithOracle.Service\bin\Debug\WPFWithOracle.Service.dll
+E:\Projects\WPFWithOracleDemo\WPFWithOracle.Service\bin\Debug\WPFWithOracle.Service.pdb
+E:\Projects\WPFWithOracleDemo\WPFWithOracle.Service\obj\Debug\WPFWithOracle.Service.dll
+E:\Projects\WPFWithOracleDemo\WPFWithOracle.Service\obj\Debug\WPFWithOracle.Service.pdb
+E:\Projects\WPFWithOracleDemo\WPFWithOracle.Service\bin\Debug\WPFWithOracle.Model.dll
+E:\Projects\WPFWithOracleDemo\WPFWithOracle.Service\bin\Debug\WPFWithOracle.Repository.dll
+E:\Projects\WPFWithOracleDemo\WPFWithOracle.Service\bin\Debug\WPFWithOracle.Model.pdb
+E:\Projects\WPFWithOracleDemo\WPFWithOracle.Service\bin\Debug\WPFWithOracle.Repository.pdb
+E:\Projects\WPFWithOracleDemo\WPFWithOracle.Service\obj\Debug\WPFWithOracle.Service.csprojResolveAssemblyReference.cache
+E:\Projects\WPFWithOracleDemo\WPFWithOracle.Service\bin\Debug\WPFWithOracle.Helper.dll
+E:\Projects\WPFWithOracleDemo\WPFWithOracle.Service\bin\Debug\WPFWithOracle.Helper.pdb
+E:\Projects\WPFWithOracleDemo\WPFWithOracle.Service\bin\Debug\WPFWithOracle.MySocketServer.dll
+E:\Projects\WPFWithOracleDemo\WPFWithOracle.Service\bin\Debug\WPFWithOracle.MySocketServer.pdb

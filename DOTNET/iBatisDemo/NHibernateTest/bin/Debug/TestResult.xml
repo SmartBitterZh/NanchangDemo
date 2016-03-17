@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="D:\Test\iBatisDemo\NHibernateTest\bin\Debug\NHibernateTest.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2011-02-02" time="11:58:09">
+  <environment nunit-version="2.5.3.9345" clr-version="2.0.50727.3053" os-version="Microsoft Windows NT 5.1.2600 Service Pack 2" platform="Win32NT" cwd="D:\Test\iBatisDemo\NHibernateTest\bin\Debug" machine-name="BRUCELEE" user="bruce" user-domain="BRUCELEE" />
+  <culture-info current-culture="zh-CN" current-uiculture="zh-CN" />
+  <test-suite name="D:\Test\iBatisDemo\NHibernateTest\bin\Debug\NHibernateTest.dll" executed="True" success="True" time="6.234" asserts="0">
+    <results>
+      <test-suite name="NHibernateTest" executed="True" success="True" time="6.219" asserts="0">
+        <results>
+          <test-suite name="CustomTest" executed="True" success="True" time="6.203" asserts="0">
+            <results>
+              <test-case name="NHibernateTest.CustomTest.SelectAllTest" executed="True" success="True" time="6.203" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

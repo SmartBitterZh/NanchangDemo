@@ -1,0 +1,9 @@
+E:\Projects\iBatisDemo\IBLL\bin\Debug\IBLL.dll
+E:\Projects\iBatisDemo\IBLL\bin\Debug\IBLL.pdb
+E:\Projects\iBatisDemo\IBLL\bin\Debug\IDAO.dll
+E:\Projects\iBatisDemo\IBLL\bin\Debug\Model.dll
+E:\Projects\iBatisDemo\IBLL\bin\Debug\IDAO.pdb
+E:\Projects\iBatisDemo\IBLL\bin\Debug\Model.pdb
+E:\Projects\iBatisDemo\IBLL\obj\Debug\IBLL.csprojResolveAssemblyReference.cache
+E:\Projects\iBatisDemo\IBLL\obj\Debug\IBLL.dll
+E:\Projects\iBatisDemo\IBLL\obj\Debug\IBLL.pdb
